@@ -31,6 +31,22 @@ This approach helps isolate whether the main problem is acquisition, retention, 
 - Average order value decreased only slightly (~4–5%), suggesting pricing or basket size was not the main issue.
 - High-volume product categories such as watches, health & beauty, and home goods contributed less revenue during the decline period.
 
+## Example Output
+
+Revenue trend snapshot from the analysis:
+
+![Revenue Trend](images/revenue-trend.png)
+
+## Summary Table
+
+| Metric | Result | Interpretation |
+|---|---:|---|
+| Revenue change (2018-Q3 vs previous quarter) | -39% | Major performance decline |
+| New customer revenue | Sharp drop | Main driver was weaker acquisition |
+| Returning customer revenue | Declined | Secondary contributor |
+| Average order value | Down ~4–5% | Pricing was not the main issue |
+| Top product categories | Lower contribution | Category weakness supported the decline |
+
 ## Business Interpretation
 
 The results suggest that the primary problem was weaker customer acquisition rather than pricing.
