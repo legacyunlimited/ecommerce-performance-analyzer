@@ -1,4 +1,4 @@
-# E-commerce Revenue Decline Analysis (PostgreSQL)
+# E-commerce Performance & Profitability Analyzer (PostgreSQL)
 
 ## Problem
 Investigate why total revenue declined sharply in 2018-Q3 compared to the previous quarter using transactional e-commerce data.
