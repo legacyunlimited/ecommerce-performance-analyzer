@@ -35,7 +35,7 @@ This approach helps isolate whether the main problem is acquisition, retention, 
 
 Revenue trend snapshot from the analysis:
 
-![Revenue Trend](images/revenue-trend.png)
+![Revenue Trend](images/Quarter-over-Quarter%20Revenue%20Trend.png)
 
 ## Summary Table
 
