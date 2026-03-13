@@ -85,6 +85,7 @@ A business could use this type of analysis to answer questions like:
 
 I use SQL and ecommerce transaction data to identify the likely drivers of revenue decline, customer weakness, and category underperformance.
 
-If you want this type of analysis for your business, fill out my async intake form here: [your link]
+If you want this type of analysis for your business, start here: 
+[**Ecommerce Revenue Diagnosis Audit**](https://cooperative-basement-560.notion.site/Ecommerce-Revenue-Diagnosis-Audit-322c385cd8f38029b387e2f2f54ce150)
 
 
